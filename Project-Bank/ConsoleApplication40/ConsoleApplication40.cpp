@@ -239,6 +239,10 @@ void ShowTotalBalances()
 	cout << "\t\t\t\t\t   ( " << clsUtil::NumberToText(TotalBalances) << ")\n";
 }
 
+void PrintHowAreaYou() 
+{
+	cout << "How Area you Github\n";
+}
 int main()
 {
 	ShowTotalBalances();
